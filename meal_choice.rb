@@ -3,6 +3,6 @@
 
 def meal_choice(meal = "meat")
 
-  puts "Meal is #{meal}."
+  return meal
 
 end
